@@ -1,2 +1,3 @@
-# buisness-card
- A simple buisness card design
+# Buisness Card
+
+A simple buisness card design
